@@ -1,0 +1,101 @@
+
+body {
+    margin-top: 200px;
+    margin-left: 250px;
+    margin-right: 250px;
+    line-height: 1.5;
+    font-family: "Young Serif", serif;
+    font-weight: 400, 600, 700;
+    font-style: normal;
+    background-color: #F3E6D8;
+}
+
+.background {
+    background-color: white;
+    border: 50px solid white;
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+    border-radius: 20px;
+  
+}
+ 
+.prep-time-info {
+    background-color: #FFF5FA;
+}
+
+.prep-time-info h4 {
+    margin-left: 20px;
+    color: #8f034b;
+}
+
+ .nutrition ul {
+    list-style-type: none;
+}
+
+ h2 {
+    color: #803e26;
+}
+
+
+.nutrition li {
+    display: inline-block;
+    vertical-align: top;
+    padding-left: 0;
+}
+
+.nutrition-row-1 .item-2 {
+    margin-left: 200px;
+    
+}
+
+.nutrition-row-2 .item-2 {
+    margin-left: 220px;
+}
+
+.nutrition-row-3 .item-2 {
+    margin-left: 205px;
+}
+
+.nutrition-row-4 .item-2 {
+    margin-left: 240px;
+}
+
+.nutrition-row-1  {
+    border-bottom: 1px solid black;
+}
+
+.nutrition-row-2  {
+    border-bottom: 1px solid black;
+}
+
+.nutrition-row-3  {
+    border-bottom: 1px solid black;
+    padding-top: 15px;
+}
+
+.nutrition-row-4  {
+    border-bottom: 1px solid black;
+    padding-top: 15px;
+}
+
+.attribution {
+    font-size: 11px; text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%); 
+}
+
+ul .item-2 {
+    color: #803e26;
+}
+
+li {
+    color: #5F574E;
+}
+p {
+    color: #5F574E;
+}
